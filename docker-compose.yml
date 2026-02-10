@@ -6,7 +6,7 @@ services:
     container_name: archivist-db
     environment:
       POSTGRES_USER: archivist
-      POSTGRES_PASSWORD: archivist_dev_password
+      POSTGRES_PASSWORD: qIm87u8stwgKKE
       POSTGRES_DB: archivist_dev
     ports:
       - "5432:5432"

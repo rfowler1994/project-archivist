@@ -4,4 +4,6 @@
 - .NET Project initialized
 - Next.js Project initialized
 - Docker setup for Postgres
-
+- Completed Phase 1.1. 
+	- Can create a note and have it save to inbox. 
+	- Inbox shows latest 20 notes created.
