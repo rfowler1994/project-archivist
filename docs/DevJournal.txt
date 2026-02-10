@@ -1,0 +1,7 @@
+2/10/26
+- Github Repository established
+- Project Structure established
+- .NET Project initialized
+- Next.js Project initialized
+- Docker setup for Postgres
+

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QzdW/mfJyL8=",
+  "success": true,
+  "projectFilePath": "D:\\project-archivist\\project-archivist\\backend\\Archivist.Api\\Archivist.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
