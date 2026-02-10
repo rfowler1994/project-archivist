@@ -1,18 +1,17 @@
 namespace Archivist.Api.Models;
 
-// This class represents a Quick Note entity 
 public class QuickNote
 {
     // Primary Key
     public Guid Id { get; set; }
 
     // Markdown content of the note
-    public string Body { get; set; } = string.Empty;
+    public required string Body { get; set; }
 
-    // Datetime when this note was created
+   // When the Note was created (server-assigned).
     public DateTime CreatedAt { get; set; }
 
-    // Datetime when this note was last modified
+    // When the Note was last updated (server-assigned).
     public DateTime UpdatedAt { get; set; }
 
 }
